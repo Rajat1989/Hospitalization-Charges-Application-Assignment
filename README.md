@@ -1,7 +1,7 @@
 # Hospitalization Charges Application Assignment (CSIS 1175) DouGlas College :)
 
 ### CSIS 1175: INTRODCTION TO PROGRAMMING I
-
+this is my changes in readme.~
 This program computes and displays various components of hospitalization cost based on the level of hospital stay, duration of stay, and costs associated with diagnostic tests, lab tests, medication and rehab, if any. You will be prompted to enter several inputs.
 
 ### Learning Objectives
